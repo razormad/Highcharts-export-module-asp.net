@@ -1,0 +1,9 @@
+Author : Clem
+
+- Tested and approved on Visual Studio 2008 (Pro)
+- For use, you need to change this value on the "Default.aspx" page :
+exporting: {
+      url: "http://localhost:2001/highcharts_export.aspx"
+      }
+
+Change the port of the server by your server port, if your server is running on "1789" switch url to http://localhost:1789/highcharts_export.aspx
