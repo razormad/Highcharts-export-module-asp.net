@@ -1,6 +1,8 @@
-Author : Clem
+Author : Clément Agarini
+Date : 17/06/2011
+Version : 1.0
 
-- Tested and approved on Visual Studio 2008 (Pro)
+- Tested and approved on Visual Studio 2008 (Pro), IIS 6.0, .NET Framework 3.5.
 - For use, you need to change this value on the "Default.aspx" page :
 exporting: {
       url: "http://localhost:2001/highcharts_export.aspx"
